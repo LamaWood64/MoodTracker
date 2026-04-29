@@ -36,3 +36,10 @@ Even a few seconds of input can generate long-term, meaningful insights into per
 This project focuses on simplicity, consistency, and usability — turning a habit that usually feels tedious into a fast, seamless interaction.
 
 Over time, the collected data helps users reflect on their emotional state and better understand what influences their mood.
+
+
+### Main App Logo
+![IMG_0950.jpg](screenshots/IMG_0950.jpg)
+
+
+
