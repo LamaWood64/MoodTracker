@@ -39,7 +39,10 @@ Over time, the collected data helps users reflect on their emotional state and b
 
 
 ### Main App Logo
+
+<p align="center">
 ![IMG_0950.jpg](Screenshots/IMG_0950.jpg)
+</p>
 
 ### Features 
 <p align="center">
