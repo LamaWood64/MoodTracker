@@ -1,6 +1,6 @@
 # Mood Tracker 
 
-Mood Tracker is my first iOS application, created due to the lack of simple and efficient mood-tracking solutions on the market.
+Mood Tracker is my very first iOS application, created due to the lack of simple and efficient mood-tracking solutions on the market.
 
 ## Overview
 
@@ -29,6 +29,7 @@ Even a few seconds of input can generate long-term, meaningful insights into per
 - Swift
 - SwiftUI
 - Xcode
+- AI power: Chat GPT and DeepSeek
 
 ## Vision
 
